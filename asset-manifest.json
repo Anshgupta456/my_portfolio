@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.b0eddeb0.css",
+    "main.js": "/my_portfolio/static/js/main.9216200c.js",
+    "static/media/Resume.pdf": "/my_portfolio/static/media/Resume.996b1fe301cfc88b42b8.pdf",
+    "static/media/PORTFOLIO.png": "/my_portfolio/static/media/PORTFOLIO.4b0a793a882367c4ddb6.png",
+    "static/media/Ansh.png": "/my_portfolio/static/media/Ansh.06edd0db568937ed901c.png",
+    "static/media/react.jpg": "/my_portfolio/static/media/react.70025160c2f4ac940b52.jpg",
+    "static/media/css.png": "/my_portfolio/static/media/css.fad4994a8b33f9c04a7e.png",
+    "static/media/Figma2.png": "/my_portfolio/static/media/Figma2.77f3812a73a036d5ad9a.png",
+    "static/media/Govolve.png": "/my_portfolio/static/media/Govolve.544842fc08de089e0c13.png",
+    "static/media/frontend.png": "/my_portfolio/static/media/frontend.fb591306a987db5063ef.png",
+    "static/media/profes.jpg": "/my_portfolio/static/media/profes.effbe92c30ea504e3e33.jpg",
+    "static/media/reactjs.png": "/my_portfolio/static/media/reactjs.b38ba08835f92c2568dc.png",
+    "static/media/html2.png": "/my_portfolio/static/media/html2.5a2f619f7f54c46e68c4.png",
+    "static/media/git.png": "/my_portfolio/static/media/git.4cb875e1ea2e0c6780af.png",
+    "static/media/tailwind.png": "/my_portfolio/static/media/tailwind.2a21645a86f8876fafd8.png",
+    "static/media/Question.webp": "/my_portfolio/static/media/Question.e3017efd02b797506cc4.webp",
+    "static/media/team.webp": "/my_portfolio/static/media/team.2d9718949794d3aa52ca.webp",
+    "static/media/js.webp": "/my_portfolio/static/media/js.c5673894e81ac648da9d.webp",
+    "static/media/lead.avif": "/my_portfolio/static/media/lead.42544117a939bf27e134.avif",
+    "static/media/ps.avif": "/my_portfolio/static/media/ps.7c3e657ee1640ccac935.avif",
+    "static/media/res.avif": "/my_portfolio/static/media/res.eccc4f9c10b0d7c62dd3.avif",
+    "index.html": "/my_portfolio/index.html",
+    "main.b0eddeb0.css.map": "/my_portfolio/static/css/main.b0eddeb0.css.map",
+    "main.9216200c.js.map": "/my_portfolio/static/js/main.9216200c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0eddeb0.css",
+    "static/js/main.9216200c.js"
+  ]
+}
