@@ -1,0 +1,44 @@
+.project-section{
+    height: 100vh;
+    text-align: center;
+}
+
+.section-title{
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+    font-size: 2rem;
+}
+
+.section-tagline{
+    font-size: 1.5rem;
+}
+
+.projects{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    padding-top: 3rem;
+}
+
+.project-tile{
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 2px solid transparent;
+    width: 270px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    padding-top: 10px;
+}
+
+.project-title{
+    color: yellow;
+}
+
+
+.project-desc{
+    font-size: large;
+}

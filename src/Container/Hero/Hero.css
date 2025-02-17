@@ -1,0 +1,55 @@
+.hero-section {
+    display: flex;
+    justify-content: space-evenly; /* Space between image and text */
+    align-items: center; /* Center vertically */
+    padding: 0 5rem;
+    height: 100vh;
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.photo{
+    width: 50%;
+    align-items: center;
+}
+.hi{
+    font-size: 2rem;
+}
+
+.name{
+    font-size: 4rem;
+}
+
+.bio{
+    font-size: 1.5rem;
+}
+.resume-btn{
+    background-color: rgb(255, 255, 255);
+    width: 6rem;
+    height: auto;
+    border: 1px solid;
+    border: black;
+    border-radius: 10px;
+    padding: 5px;
+    /* display: block; */
+    margin-top: 10px;
+    /* align-items: center;*/
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.pic{
+    height: 90vh;
+    width: auto;
+    padding-top: 5rem;
+
+}

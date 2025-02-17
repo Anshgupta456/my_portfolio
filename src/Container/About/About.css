@@ -1,0 +1,47 @@
+.about-box{
+    height: 100vh;
+    text-align: center;
+}
+
+.section-title{
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+    font-size: 2rem;
+}
+
+.section-tagline{
+    font-size: 1.5rem;
+}
+
+.profile-cards{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.cards-tile{
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 2px solid transparent;
+    width: 270px;
+}
+.card-img{
+    height: 200px;
+    width: 200px;
+    padding-bottom: 0.5rem;
+}
+
+.card-title{
+    color: yellow;
+}
+
+.card-description{
+   font-size: large;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    padding-top: 10px;
+}
